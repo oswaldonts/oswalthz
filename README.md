@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Oswaldo, a web developer who is interested in cloud computing and devops.
+
+I have worked with technologies like Java, PHP/Laravel, Node/Express, React.
+
+I am learning Docker and Kubernetes and CI/CD with Github Actions and Jenkins.
+
 <!--
 **oswaldtzh/oswaldtzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
